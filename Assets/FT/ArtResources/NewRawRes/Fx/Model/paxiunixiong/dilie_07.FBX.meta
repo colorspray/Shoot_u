@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 4c84625994341e548b86b345f515fbfe
+timeCreated: 1489753412
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone009
+    100002: Bone011
+    100004: Bone013
+    100006: Bone015
+    100008: Bone017
+    100010: Bone019
+    100012: Bone021
+    100014: Bone023
+    100016: Bone025
+    100018: Bone027
+    100020: Bone029
+    100022: Bone031
+    100024: Bone033
+    100026: Bone035
+    100028: Bone037
+    100030: Bone039
+    100032: Bone041
+    100034: Bone043
+    100036: Bone045
+    100038: Cylinder001_frag_062
+    100040: Cylinder001_frag_081
+    100042: Cylinder001_frag_083
+    100044: Cylinder001_frag_084
+    100046: Cylinder001_frag_086
+    100048: Cylinder001_frag_087
+    100050: Cylinder001_frag_088
+    100052: Cylinder001_frag_089
+    100054: Cylinder001_frag_092
+    100056: Cylinder001_frag_093
+    100058: Cylinder001_frag_094
+    100060: Cylinder001_frag_095
+    100062: Cylinder001_frag_096
+    100064: Cylinder001_frag_097
+    100066: Cylinder001_frag_099
+    100068: Cylinder001_frag_100
+    100070: Cylinder001_frag_101
+    100072: Cylinder001_frag_102
+    100074: Cylinder001_frag_118
+    100076: //RootNode
+    400000: Bone009
+    400002: Bone011
+    400004: Bone013
+    400006: Bone015
+    400008: Bone017
+    400010: Bone019
+    400012: Bone021
+    400014: Bone023
+    400016: Bone025
+    400018: Bone027
+    400020: Bone029
+    400022: Bone031
+    400024: Bone033
+    400026: Bone035
+    400028: Bone037
+    400030: Bone039
+    400032: Bone041
+    400034: Bone043
+    400036: Bone045
+    400038: Cylinder001_frag_062
+    400040: Cylinder001_frag_081
+    400042: Cylinder001_frag_083
+    400044: Cylinder001_frag_084
+    400046: Cylinder001_frag_086
+    400048: Cylinder001_frag_087
+    400050: Cylinder001_frag_088
+    400052: Cylinder001_frag_089
+    400054: Cylinder001_frag_092
+    400056: Cylinder001_frag_093
+    400058: Cylinder001_frag_094
+    400060: Cylinder001_frag_095
+    400062: Cylinder001_frag_096
+    400064: Cylinder001_frag_097
+    400066: Cylinder001_frag_099
+    400068: Cylinder001_frag_100
+    400070: Cylinder001_frag_101
+    400072: Cylinder001_frag_102
+    400074: Cylinder001_frag_118
+    400076: //RootNode
+    4300000: Cylinder001_frag_118
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Cylinder001_frag_118
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
